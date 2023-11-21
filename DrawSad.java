@@ -15,6 +15,10 @@ public class DrawSad extends JPanel
         g.setColor(Color.BLACK);
         g.fillOval(240, 420, 275, 170);
 
+        g.setcolor(Color.Orange);
+        g.fillOval(203, 170, 150, 80);
+        g.fillOval(400, 170, 150, 80);
+
         g.setColor(Color.YELLOW);
         g.fillOval(240, 430, 275, 170);
         g.setColor(Color.BLACK);
