@@ -1,3 +1,5 @@
+import javax.swing.JFrame;
+
 public class TextFieldTest {
     public static void main(String[] args) {
         TextFieldFrame textFieldFrame = new TextFieldFrame();
